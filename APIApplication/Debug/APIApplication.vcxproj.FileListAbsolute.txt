@@ -1,0 +1,3 @@
+C:\Users\noxiv\OneDrive - Florida Gulf Coast University\VSProjects\APIApplication\APIApplication\Debug\APIApplication.vcxproj.MdMergeInputs.cache
+C:\Users\noxiv\OneDrive - Florida Gulf Coast University\VSProjects\APIApplication\APIApplication\Debug\APIApplication.vcxproj.cppwinrt_plat.cache
+C:\Users\noxiv\OneDrive - Florida Gulf Coast University\VSProjects\APIApplication\APIApplication\Debug\APIApplication.vcxproj.cppwinrt_comp.cache
